@@ -1,6 +1,8 @@
 ### Hi there 👋
-<img src = "https://github-readme-stats.vercel.app/api?username=wangscaler&count_private=true&show_icons=true&theme=tokyonight">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=wangscaler&theme=tokyonight">
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=HanyuKing&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Hanyu's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanyuKing&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 
 <!--
 **HanyuKing/HanyuKing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,8 +14,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: ...![68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d77616e677363616c657226636f756e745f707269766174653d747275652673686f775f69636f6e733d74727565267468656d653d746f6b796f6e69676874](https://user-images.githubusercontent.com/17443442/187158516-03d8988f-aff3-4f20-b910-077eeaee976c.svg)![68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d77616e677363616c6572267468656d653d746f6b796f6e69676874](https://user-images.githubusercontent.com/17443442/187158520-9d7932fe-f891-48b1-9aca-745400a07902.svg)
+
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->![gif3](https://user-images.githubusercontent.com/17443442/187157351-3eb11753-ab0c-4bba-b63d-90057a2db4b9.gif)
-
+-->
